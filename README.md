@@ -6,11 +6,10 @@ I'm on a quest to see just how far I can get on the road to mastery in Software 
 
 🔎 Join me and the other **Seekers of the Vanguard** as ClearBlueSkies_ on Twitch
 
-<!--
 🌟 Want to buy me some provisions?
 
-KoFi Link
--->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I319Z9PN)
+
 
 I'm looking for new opportunities and would love to collaborate on projects. Feel free to get in touch if you'd like to work together!
 
