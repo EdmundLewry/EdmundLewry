@@ -4,14 +4,15 @@ I'm a software developer with experience in C#, Java, C++, Typescript/Javascript
 
 I'm on a quest to see just how far I can get on the road to mastery in Software Development.
 
-🔎 Join me and the other **Seekers of the Vanguard** as ClearBlueSkies_ on Twitch
+🔎 Join me and the other **Seekers of the Vanguard** as [ClearBlueSkies_ on Twitch](https://www.twitch.tv/clearblueskies_)
 
-🌟 Want to buy me some provisions?
+### 🌟 Want to buy me some provisions?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I319Z9PN)
 
+### Open to new work!
 
-I'm looking for new opportunities and would love to collaborate on projects. Feel free to get in touch if you'd like to work together!
+I'm open for new opportunities and would love to collaborate on projects. Feel free to get in touch if you'd like to work together!
 
 
 <!--
