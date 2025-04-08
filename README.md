@@ -10,6 +10,3 @@ I'm on a quest to see just how far I can get on the road to mastery in Software 
 
 <a href='https://ko-fi.com/I2I319Z9PN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-### Open to new work!
-
-I'm open for new opportunities and would love to collaborate on projects. Feel free to get in touch if you'd like to work together!
